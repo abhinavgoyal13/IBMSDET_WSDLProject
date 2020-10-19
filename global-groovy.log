@@ -1,0 +1,14 @@
+2020-10-20 00:58:48,344 INFO  [log] EmailId is abhinavgoyal13@gmail.com
+2020-10-20 00:58:48,351 INFO  [log] Execute the next step as normal
+2020-10-20 00:59:06,689 INFO  [log] No of rows is 2 and no of columns is 3
+2020-10-20 00:59:06,741 INFO  [log] email is abhinavgoyal13@gmail.com and firstname is Abhinav and lastname is Goyal
+2020-10-20 00:59:25,406 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <CUSTOMERDATA.EMAILID>abhinavgoyal13@gmail.com</CUSTOMERDATA.EMAILID>
+            <CUSTOMERDATA.FIRSTNAME>Abhinav</CUSTOMERDATA.FIRSTNAME>
+            <CUSTOMERDATA.LASTNAME>Goyal</CUSTOMERDATA.LASTNAME>
+        </Row>
+    </ResultSet>
+</Results>
+

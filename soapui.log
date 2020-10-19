@@ -1,0 +1,95 @@
+2020-10-20 00:58:41,417 WARN  [SoapUI] Missing folder [C:\Git\IBMSDET\SOAP UI\project\MavenIntegration\WSDL\my-WSDL\ext] for external libraries
+2020-10-20 00:58:41,769 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\abhin\soapui-settings.xml]
+2020-10-20 00:58:43,251 INFO  [WsdlProject] Loaded project from [file:/C:/Git/IBMSDET/SOAP%20UI/project/MavenIntegration/WSDL/my-WSDL/customerCustomerRepositoryV1-soapui-project_latest.xml]
+2020-10-20 00:58:44,101 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [customerCustomerRepositoryV1]
+2020-10-20 00:58:44,104 INFO  [SoapUITestCaseRunner] Running Project [customerCustomerRepositoryV1], runType = SEQUENTIAL
+2020-10-20 00:58:44,130 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [AllConcepts]
+2020-10-20 00:58:44,166 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-10-20 00:58:44,247 INFO  [SoapUITestCaseRunner] running step [createCustomer]
+2020-10-20 00:58:46,469 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2020-10-20 00:58:46,513 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2020-10-20 00:58:46,517 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2020-10-20 00:58:46,520 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2020-10-20 00:58:46,522 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2020-10-20 00:58:46,526 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2020-10-20 00:58:46,529 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2020-10-20 00:58:46,535 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2020-10-20 00:58:46,544 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2020-10-20 00:58:46,552 INFO  [SchemaUtils] Added default schema from file:/C:/Users/abhin/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2020-10-20 00:58:46,559 INFO  [SchemaUtils] Loading schema types from [file:\C:\Git\IBMSDET\SOAP%20UI\project\WSDL\Req\SOAP%20API%20WSDL%20EndPoints\SOAP%20API%20WSDL%20EndPoints\customerCustomerRepositoryV1.xml]
+2020-10-20 00:58:46,561 INFO  [SchemaUtils] Getting schema file:\C:\Git\IBMSDET\SOAP%20UI\project\WSDL\Req\SOAP%20API%20WSDL%20EndPoints\SOAP%20API%20WSDL%20EndPoints\customerCustomerRepositoryV1.xml
+2020-10-20 00:58:47,071 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:58:47,072 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:58:47,074 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:58:47,075 INFO  [SoapUITestCaseRunner] running step [ConditionalGoTo]
+2020-10-20 00:58:48,344 INFO  [log] EmailId is abhinavgoyal13@gmail.com
+2020-10-20 00:58:48,351 INFO  [log] Execute the next step as normal
+2020-10-20 00:58:48,394 INFO  [SoapUITestCaseRunner] running step [getAllCustomer]
+2020-10-20 00:59:02,515 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:02,515 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:02,518 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:02,519 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-10-20 00:59:02,562 INFO  [SoapUITestCaseRunner] running step [getCustomerById]
+2020-10-20 00:59:03,700 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:03,713 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:03,714 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:03,715 INFO  [SoapUITestCaseRunner] running step [deleteCustomerById]
+2020-10-20 00:59:05,835 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:05,837 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:05,839 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:05,842 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [AllConcepts], time taken: 21580ms, status: FINISHED
+2020-10-20 00:59:05,854 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [DataDriven]
+2020-10-20 00:59:05,859 INFO  [SoapUITestCaseRunner] running step [GetDataFromExcelToTestCaseCustomProperty]
+2020-10-20 00:59:06,689 INFO  [log] No of rows is 2 and no of columns is 3
+2020-10-20 00:59:06,741 INFO  [log] email is abhinavgoyal13@gmail.com and firstname is Abhinav and lastname is Goyal
+2020-10-20 00:59:06,742 INFO  [SoapUITestCaseRunner] running step [createCustomer]
+2020-10-20 00:59:07,862 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:07,863 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:07,866 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:07,868 INFO  [SoapUITestCaseRunner] running step [GetCustomerID]
+2020-10-20 00:59:07,900 INFO  [SoapUITestCaseRunner] running step [getAllCustomer]
+2020-10-20 00:59:22,481 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:22,483 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:22,486 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:22,487 INFO  [SoapUITestCaseRunner] running step [getCustomerById]
+2020-10-20 00:59:23,306 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:23,307 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:23,308 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:23,309 INFO  [SoapUITestCaseRunner] running step [deleteCustomerById]
+2020-10-20 00:59:24,495 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:24,495 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:24,497 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:24,500 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [DataDriven], time taken: 18611ms, status: FINISHED
+2020-10-20 00:59:24,503 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [DataBase]
+2020-10-20 00:59:24,513 INFO  [SoapUITestCaseRunner] running step [JDBC Request]
+2020-10-20 00:59:25,336 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-10-20 00:59:25,406 INFO  [log] <Results>
+    <ResultSet fetchSize="0">
+        <Row rowNumber="1">
+            <CUSTOMERDATA.EMAILID>abhinavgoyal13@gmail.com</CUSTOMERDATA.EMAILID>
+            <CUSTOMERDATA.FIRSTNAME>Abhinav</CUSTOMERDATA.FIRSTNAME>
+            <CUSTOMERDATA.LASTNAME>Goyal</CUSTOMERDATA.LASTNAME>
+        </Row>
+    </ResultSet>
+</Results>
+
+2020-10-20 00:59:25,445 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-10-20 00:59:25,447 INFO  [SoapUITestCaseRunner] running step [createCustomer]
+2020-10-20 00:59:28,367 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:28,368 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:28,370 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:28,372 INFO  [SoapUITestCaseRunner] running step [GetCustomerID]
+2020-10-20 00:59:28,413 INFO  [SoapUITestCaseRunner] running step [getAllCustomer]
+2020-10-20 00:59:44,906 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:44,906 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:44,910 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:44,911 INFO  [SoapUITestCaseRunner] running step [getCustomerById]
+2020-10-20 00:59:46,583 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:46,584 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:46,585 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:46,586 INFO  [SoapUITestCaseRunner] running step [deleteCustomerById]
+2020-10-20 00:59:47,856 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-20 00:59:47,858 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-20 00:59:47,860 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-20 00:59:47,863 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [DataBase], time taken: 23310ms, status: FINISHED
+2020-10-20 00:59:47,873 INFO  [SoapUITestCaseRunner] Project [customerCustomerRepositoryV1] finished with status [FINISHED] in 63759ms
